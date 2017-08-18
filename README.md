@@ -1,4 +1,4 @@
-## Repositorio basado en el artículo [Google Maps JS + Ionic](https://www.ion-book.com/blog/ionic2/google-maps-js-and-ionic/)
+## Repositorio basado en el artículo [Trazando rutas con Google Maps JS + Ionic](https://www.ion-book.com/blog/ionic2/directions-google-js-ionic/)
 
 Este proyecto usa:
 
